@@ -1,0 +1,72 @@
+.jumbotron{
+    padding-top: 5px;
+    padding-bottom: 0;
+}
+
+.main-headings{
+    text-align: center;
+}
+.brand{
+    height: 200px;
+}
+.confirmed{
+    color: #ff0339;
+    font-weight: 600;
+}
+.active{
+    color: #0b52b0;
+    font-weight: 600;
+}
+.recovered{
+    color: #2eb00b;
+    font-weight: 600;
+}
+.decreased{
+    color: #878485;
+    font-weight: 600;
+}
+.table-head{
+    text-align: center;
+}
+.table-body{
+    text-align: center;
+}
+.table-body td:nth-of-type(2),.table-body td:nth-of-type(3),.table-body td:nth-of-type(4),.table-body td:nth-of-type(5){
+    text-align: right;
+    
+}
+.add-confirmed{
+    font-size: 12px;
+    color: #ff0339;
+    font-weight: 900; 
+}
+.add-active{
+    font-size: 12px;
+    color: #0b52b0;
+    font-weight: 900; 
+}
+.add-recovered{
+    font-size: 12px;
+    color: #2eb00b;
+    font-weight: 900; 
+}
+.add-decreased{
+    font-size: 12px;
+    color: #878485;
+    font-weight: 900; 
+}
+.sum-total{
+    /* background-color: #948f91; */
+    /* color: white; */
+    font-weight: 500;
+}
+.quote{
+    text-align: center;
+    color: #4d4a4b;
+    padding: 15px;
+    font-weight: 500;
+}
+.legalities{
+    text-align: center;
+    font-weight: 700;
+}
